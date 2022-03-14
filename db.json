@@ -1,12 +1,11 @@
 {
-  "posts":[
+  "cartData":[
     {
       "id" : 0,
       "title": "First post!",
       "content" : "My first content!"
     }
   ],
-  "cartData":[{}],
   "comments" : [
     {
       "id": 0,
