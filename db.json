@@ -6,7 +6,7 @@
       "content" : "My first content!"
     }
   ],
-  "cartData":[],
+  "cartData":[{}],
   "comments" : [
     {
       "id": 0,
